@@ -1,4 +1,4 @@
-# ak-ai-public
+# ak-ai
 
 Open-source Claude Code skills and AI tools.
 
