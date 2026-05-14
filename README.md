@@ -1,6 +1,6 @@
 # ak-ai-public
 
-Open-source Claude Code skills and AI tools, curated from the private `ak-skills` plugin.
+Open-source Claude Code skills and AI tools.
 
 ## Install
 
