@@ -1,0 +1,16 @@
+{
+  "name": "ak-ai",
+  "owner": { "name": "Arslan Kazmi" },
+  "metadata": {
+    "description": "Open-source Claude Code skills and AI tools by Arslan Kazmi",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ak-ai",
+      "source": "./plugins/ak-ai",
+      "description": "Autonomous ML research, eval, dataset curation, and knowledge capture skills",
+      "version": "1.0.0"
+    }
+  ]
+}
