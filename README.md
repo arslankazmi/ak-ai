@@ -2,7 +2,7 @@
 
 Open-source Claude Code skills and AI tools by [Arslan Kazmi](https://github.com/arslankazmi).
 
-A curated subset of the private `ak` plugin — skills promoted via PR after passing portability and quality checks.
+Every skill arrives via pull request after passing portability and quality checks. Branch protection requires review before merge.
 
 ---
 
@@ -38,8 +38,6 @@ Invoke any of them as `/ak-ai:<skill-name>` in a Claude Code session.
 ---
 
 ## Maintenance
-
-Skills land here via the `ak:promote` workflow from the private [`arslankazmi/ak`](https://github.com/arslankazmi/ak) repo — every addition arrives as a pull request and must pass review before merging.
 
 See [`CLAUDE.md`](./CLAUDE.md) for repo conventions.
 
