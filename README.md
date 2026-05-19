@@ -30,6 +30,7 @@ export AK_ML_PROJECT=~/your-ml-project
 | Skill | Description |
 |-------|-------------|
 | `ak-ai:ml-autonomous` | Autonomous ML task supervisor — orchestrates parallel sub-agents (supervisor on Opus, sub-agents on Sonnet), verifies the result runs + tests pass + UI loads |
+| `ak-ai:teach` | AI as instructor — teaches concepts, provides exercises, and guides learning. Use when you want to build genuine understanding of something rather than just get it done. |
 | `ak-ai:ml-compound` | Knowledge capture after any ML experiment or session — writes structured solution files to `docs/solutions/`, optionally to MemPalace |
 | `ak-ai:ml-curate-dataset` | Build, filter, and version a training or finetuning dataset for both text (LLM) and image caption (diffusion) pipelines, with Claude-as-judge quality filtering |
 
